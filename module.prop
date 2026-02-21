@@ -1,0 +1,6 @@
+id=coloros_torch_boost
+name=ColorOS 手电筒亮度突破
+version=v1.0-Stable
+versionCode=10
+author=小杨大王
+description=专为 ColorOS16 定制。突破系统默认四档亮度限制，点亮手电筒时强制全量输出 (100亮度)。
