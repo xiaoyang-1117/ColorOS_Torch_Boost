@@ -8,13 +8,13 @@
 
 专为 ColorOS 16 系统定制的 Magisk / KernelSU 模块。突破系统默认手电筒亮度限制，在每次打开手电筒时，自动、无感地将亮度强制提升至 100（默认四档亮度仅为 50），满血释放 LED 硬件潜能！
 
-## ⚙️ 兼容性 (Compatibility)
+## ⚙️ 兼容性
 
 - **系统**：理论支持基于 ColorOS 16  的一加 (OnePlus) 与 OPPO 设备。
 - **ROOT 环境**：需要 Magisk 20.0+ 或 KernelSU。
 - **硬件**：模块会自动检测 `/sys/class/leds/led:torch_0/brightness` 节点，如设备不支持将自动静默退出，不占用后台。
 
-## 🛠️ 安装说明 (Installation)
+## 🛠️ 安装说明
 
 1. 下载最新的 `ColorOS_Torch_Boost_vX.X.zip` 文件。
 2. 打开 Magisk 或 KernelSU 应用程序。
